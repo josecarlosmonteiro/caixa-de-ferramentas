@@ -68,12 +68,7 @@ export function CompositionTableExample() {
                   <Table.Cell colSpan={9}>
                     <div className='flex justify-end items-center gap-10 font-semibold'>
                       <div className='flex items-center gap-4'>
-                        <span className='text-blue-400'>Status:</span>
-                        <div className='p-1 px-4 rounded-full bg-green-200 text-green-700 font-normal'>teste</div>
-                      </div>
-
-                      <div className='flex items-center gap-4'>
-                        <span className='text-blue-400'>Total origem:</span>
+                        <span className='text-blue-400'>Total do projeto:</span>
                         <div className='p-1 px-4 pr-2 rounded-full'>{currency(origin.originTotal)}</div>
                       </div>
                     </div>
