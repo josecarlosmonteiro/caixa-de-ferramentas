@@ -4,6 +4,7 @@ import { THead } from "./THead";
 export type ColumnDef<T> = {
   accessKey: keyof T;
   header?: string;
+  expandable?: boolean;
 }
 
 type Props<T> = {

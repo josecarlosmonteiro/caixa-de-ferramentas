@@ -1,0 +1,347 @@
+{
+  "content": {
+    "items": [
+      {
+        "origin": "PROJETO ALPHA",
+        "spacialties": [
+          {
+            "specialty": "DESENVOLVIMENTO",
+            "hours": "96:32",
+            "subtotal": 16623.73,
+            "additionalExtra": 14,
+            "discounts": 0,
+            "productivity": 515,
+            "hoursInformation": [
+              {
+                "employeeCodes": 0,
+                "quantitiesHour": 0,
+                "hourValue": 167,
+                "subtotal": 11923.80,
+                "dsStatus": "PAGO",
+                "employeeSpecialtyCode": 262,
+                "hoursAndMinutes": "71:24",
+                "periodRuleSpecialty": 0,
+                "minutes": 4284,
+                "providerCode": 99961610,
+                "legalProviderCode": 1,
+                "unitCode": 57
+              },
+              {
+                "employeeCodes": 6,
+                "quantitiesHour": 1,
+                "hourValue": 150,
+                "subtotal": 150.00,
+                "dsStatus": "PAGO",
+                "employeeSpecialtyCode": 267,
+                "hoursAndMinutes": "1:00",
+                "periodRuleSpecialty": 1,
+                "minutes": 60,
+                "providerCode": 99961615,
+                "legalProviderCode": 6,
+                "unitCode": 62
+              },
+              {
+                "employeeCodes": 7,
+                "quantitiesHour": 1,
+                "hourValue": 180,
+                "subtotal": 180.00,
+                "dsStatus": "PENDENTE",
+                "employeeSpecialtyCode": 268,
+                "hoursAndMinutes": "1:00",
+                "periodRuleSpecialty": 1,
+                "minutes": 60,
+                "providerCode": 99961616,
+                "legalProviderCode": 7,
+                "unitCode": 63
+              }
+            ],
+            "value": 18950.05
+          }
+        ],
+        "status": "APROVADO",
+        "originTotal": 18950.05
+      },
+      {
+        "origin": "PROJETO BETA",
+        "spacialties": [
+          {
+            "specialty": "CONSULTORIA",
+            "hours": "20:00",
+            "subtotal": 4000.00,
+            "additionalExtra": 10,
+            "discounts": 2,
+            "productivity": 200,
+            "hoursInformation": [
+              {
+                "employeeCodes": 5,
+                "quantitiesHour": 1,
+                "hourValue": 200,
+                "subtotal": 200.00,
+                "dsStatus": "PAGO",
+                "employeeSpecialtyCode": 270,
+                "hoursAndMinutes": "1:00",
+                "periodRuleSpecialty": 1,
+                "minutes": 60,
+                "providerCode": 99961618,
+                "legalProviderCode": 5,
+                "unitCode": 65
+              },
+              {
+                "employeeCodes": 8,
+                "quantitiesHour": 2,
+                "hourValue": 180,
+                "subtotal": 360.00,
+                "dsStatus": "PAGO",
+                "employeeSpecialtyCode": 271,
+                "hoursAndMinutes": "2:00",
+                "periodRuleSpecialty": 2,
+                "minutes": 120,
+                "providerCode": 99961619,
+                "legalProviderCode": 8,
+                "unitCode": 66
+              }
+            ],
+            "value": 4312.00
+          }
+        ],
+        "status": "APROVADO",
+        "originTotal": 4312.00
+      },
+      {
+        "origin": "PROJETO GAMMA",
+        "spacialties": [
+          {
+            "specialty": "MARKETING",
+            "hours": "50:00",
+            "subtotal": 8000.00,
+            "additionalExtra": 10,
+            "discounts": 5,
+            "productivity": 300,
+            "hoursInformation": [
+              {
+                "employeeCodes": 3,
+                "quantitiesHour": 2,
+                "hourValue": 160,
+                "subtotal": 320.00,
+                "dsStatus": "PAGO",
+                "employeeSpecialtyCode": 265,
+                "hoursAndMinutes": "2:00",
+                "periodRuleSpecialty": 2,
+                "minutes": 120,
+                "providerCode": 99961613,
+                "legalProviderCode": 3,
+                "unitCode": 60
+              },
+              {
+                "employeeCodes": 9,
+                "quantitiesHour": 4,
+                "hourValue": 150,
+                "subtotal": 600.00,
+                "dsStatus": "PAGO",
+                "employeeSpecialtyCode": 272,
+                "hoursAndMinutes": "4:00",
+                "periodRuleSpecialty": 1,
+                "minutes": 240,
+                "providerCode": 99961620,
+                "legalProviderCode": 9,
+                "unitCode": 67
+              },
+              {
+                "employeeCodes": 10,
+                "quantitiesHour": 3,
+                "hourValue": 155,
+                "subtotal": 465.00,
+                "dsStatus": "PAGO",
+                "employeeSpecialtyCode": 273,
+                "hoursAndMinutes": "3:00",
+                "periodRuleSpecialty": 2,
+                "minutes": 180,
+                "providerCode": 99961621,
+                "legalProviderCode": 10,
+                "unitCode": 68
+              }
+            ],
+            "value": 8360.00
+          },
+          {
+            "specialty": "DESIGN",
+            "hours": "40:00",
+            "subtotal": 6000.00,
+            "additionalExtra": 8,
+            "discounts": 2,
+            "productivity": 250,
+            "hoursInformation": [
+              {
+                "employeeCodes": 1,
+                "quantitiesHour": 2,
+                "hourValue": 150,
+                "subtotal": 300.00,
+                "dsStatus": "PENDENTE",
+                "employeeSpecialtyCode": 263,
+                "hoursAndMinutes": "2:00",
+                "periodRuleSpecialty": 1,
+                "minutes": 120,
+                "providerCode": 99961611,
+                "legalProviderCode": 2,
+                "unitCode": 58
+              }
+            ],
+            "value": 6312.00
+          }
+        ],
+        "status": "PENDENTE",
+        "originTotal": 14672.00
+      },
+      {
+        "origin": "PROJETO DELTA",
+        "spacialties": [
+          {
+            "specialty": "DESENVOLVIMENTO",
+            "hours": "80:00",
+            "subtotal": 12000.00,
+            "additionalExtra": 12,
+            "discounts": 0,
+            "productivity": 400,
+            "hoursInformation": [
+              {
+                "employeeCodes": 2,
+                "quantitiesHour": 3,
+                "hourValue": 200,
+                "subtotal": 600.00,
+                "dsStatus": "PAGO",
+                "employeeSpecialtyCode": 264,
+                "hoursAndMinutes": "3:00",
+                "periodRuleSpecialty": 2,
+                "minutes": 180,
+                "providerCode": 99961612,
+                "legalProviderCode": 3,
+                "unitCode": 59
+              },
+              {
+                "employeeCodes": 11,
+                "quantitiesHour": 3,
+                "hourValue": 195,
+                "subtotal": 585.00,
+                "dsStatus": "PENDENTE",
+                "employeeSpecialtyCode": 274,
+                "hoursAndMinutes": "3:00",
+                "periodRuleSpecialty": 1,
+                "minutes": 180,
+                "providerCode": 99961622,
+                "legalProviderCode": 11,
+                "unitCode": 69
+              },
+              {
+                "employeeCodes": 12,
+                "quantitiesHour": 2,
+                "hourValue": 190,
+                "subtotal": 380.00,
+                "dsStatus": "PAGO",
+                "employeeSpecialtyCode": 275,
+                "hoursAndMinutes": "2:00",
+                "periodRuleSpecialty": 2,
+                "minutes": 120,
+                "providerCode": 99961623,
+                "legalProviderCode": 12,
+                "unitCode": 70
+              },
+              {
+                "employeeCodes": 13,
+                "quantitiesHour": 1,
+                "hourValue": 200,
+                "subtotal": 200.00,
+                "dsStatus": "PAGO",
+                "employeeSpecialtyCode": 276,
+                "hoursAndMinutes": "1:00",
+                "periodRuleSpecialty": 2,
+                "minutes": 60,
+                "providerCode": 99961624,
+                "legalProviderCode": 13,
+                "unitCode": 71
+              },
+              {
+                "employeeCodes": 14,
+                "quantitiesHour": 2,
+                "hourValue": 180,
+                "subtotal": 360.00,
+                "dsStatus": "PENDENTE",
+                "employeeSpecialtyCode": 277,
+                "hoursAndMinutes": "2:00",
+                "periodRuleSpecialty": 1,
+                "minutes": 120,
+                "providerCode": 99961625,
+                "legalProviderCode": 14,
+                "unitCode": 72
+              },
+              {
+                "employeeCodes": 15,
+                "quantitiesHour": 2,
+                "hourValue": 175,
+                "subtotal": 350.00,
+                "dsStatus": "PAGO",
+                "employeeSpecialtyCode": 278,
+                "hoursAndMinutes": "2:00",
+                "periodRuleSpecialty": 2,
+                "minutes": 120,
+                "providerCode": 99961626,
+                "legalProviderCode": 15,
+                "unitCode": 73
+              }
+            ],
+            "value": 13440.00
+          }
+        ],
+        "status": "APROVADO",
+        "originTotal": 13440.00
+      },
+      {
+        "origin": "PROJETO EPSILON",
+        "spacialties": [
+          {
+            "specialty": "DESIGN",
+            "hours": "60:00",
+            "subtotal": 9000.00,
+            "additionalExtra": 9,
+            "discounts": 3,
+            "productivity": 350,
+            "hoursInformation": [
+              {
+                "employeeCodes": 4,
+                "quantitiesHour": 2,
+                "hourValue": 180,
+                "subtotal": 360.00,
+                "dsStatus": "PAGO",
+                "employeeSpecialtyCode": 266,
+                "hoursAndMinutes": "2:00",
+                "periodRuleSpecialty": 2,
+                "minutes": 120,
+                "providerCode": 99961614,
+                "legalProviderCode": 4,
+                "unitCode": 61
+              },
+              {
+                "employeeCodes": 16,
+                "quantitiesHour": 1,
+                "hourValue": 190,
+                "subtotal": 190.00,
+                "dsStatus": "PENDENTE",
+                "employeeSpecialtyCode": 279,
+                "hoursAndMinutes": "1:00",
+                "periodRuleSpecialty": 1,
+                "minutes": 60,
+                "providerCode": 99961627,
+                "legalProviderCode": 16,
+                "unitCode": 74
+              }
+            ],
+            "value": 9390.00
+          }
+        ],
+        "status": "APROVADO",
+        "originTotal": 9390.00
+      }
+    ],
+    "unitTotal": 60764.05,
+    "totalAmount": 60764.05
+  }
+}
